@@ -17,7 +17,7 @@ Fin
 # Ejercicio 2¿Qué se muestra?¿Qué veremos al ejecutar el siguiente algoritmo?
 
 Algo QueVeremos 
-# ¿Qué veremos al ejecutar el siguiente algoritmo?  
+__¿Qué veremos al ejecutar el siguiente algoritmo?__
 Variable valor1, valor2: entero  
 Variable cadena1: texto  
 Constante CST: real <- 49,78  
@@ -31,12 +31,12 @@ Fin
 # Ejercicio 3¿Qué hace?¿Qué hace este algoritmo?
 
 Algo QueHace  
-# ¿Qué hace este algoritmo?  
+__¿Qué hace este algoritmo?__ 
 Variable valor1, valor2: real  
 Inicio  
    valor1 <- enter("Introduza un valor: ")  
    valor2 <- enter("Introduza otro valor: ")  
-   # tratamiento 
+   __tratamiento__ 
    valor1 <- valor2  
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
