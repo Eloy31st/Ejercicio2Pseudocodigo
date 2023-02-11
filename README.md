@@ -1,8 +1,8 @@
 # Ejercicio2Pseudocodigo
 
 Ejercicios
-1. Valores de las variables
-¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
+
+# Ejercicio 1, Valores de las Variables:¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
 
 Algo ValoresDeLasVariables  
 variable a, b: entero  
@@ -14,8 +14,7 @@ Inicio
    a<-7  
    escribir("a = " & a & " y b = " & b)  
 Fin 
-2. ¿Qué se muestra?
-¿Qué veremos al ejecutar el siguiente algoritmo?
+# Ejercicio 2¿Qué se muestra?¿Qué veremos al ejecutar el siguiente algoritmo?
 
 Algo QueVeremos 
 # ¿Qué veremos al ejecutar el siguiente algoritmo?  
@@ -29,8 +28,7 @@ Inicio
    escribir(cadena1 & " , valor2 = " & valor2)  
    escribir(valor1 & " # " & CST)  
 Fin 
-3. ¿Qué hace?
-¿Qué hace este algoritmo?
+# Ejercicio 3¿Qué hace?¿Qué hace este algoritmo?
 
 Algo QueHace  
 # ¿Qué hace este algoritmo?  
@@ -43,8 +41,7 @@ Inicio
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
-4. Velocidad media
-Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
+# Ejercicio 4, Velocidad Media: Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
 A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
 
