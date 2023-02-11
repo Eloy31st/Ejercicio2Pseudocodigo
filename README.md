@@ -1,6 +1,6 @@
 # Ejercicio2Pseudocodigo
 
-Ejercicios
+Mi repositorio: https://github.com/Eloy31st/Ejercicio2Pseudocodigo.git
 
 # Ejercicio 1, Valores de las Variables:¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
 
